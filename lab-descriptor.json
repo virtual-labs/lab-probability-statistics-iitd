@@ -22,7 +22,7 @@
       "name": "Cumulative Distribution Function",
       "short-name": "cumulative-distribution-function",
       "repo": "https://github.com/virtual-labs/exp-cumulative-distribution-function-iitd",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
