@@ -6,6 +6,7 @@
   },
   "lab": "Probability and Statistics",
   "lab_display_name": "Probability and Statistics",
+  "deployLab": true,
   "phase": "3-ext",
   "collegeName": "IITD",
   "baseUrl": "ps-iitd.vlabs.ac.in",
