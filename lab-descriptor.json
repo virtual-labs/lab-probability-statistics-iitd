@@ -44,7 +44,7 @@
       "name": "Central Limit Theorem",
       "short-name": "central-limit-theorem",
       "repo": "https://github.com/virtual-labs/exp-central-limit-theorem-iitd",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -58,21 +58,21 @@
       "name": "Estimation",
       "short-name": "estimation",
       "repo": "https://github.com/virtual-labs/exp-estimation-iitd",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Hypothesis Testing",
       "short-name": "hypothesis-testing",
       "repo": "https://github.com/virtual-labs/exp-hypothesis-testing-iitd",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Correlation",
       "short-name": "correlation",
       "repo": "https://github.com/virtual-labs/exp-correlation-iitd",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
